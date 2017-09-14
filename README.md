@@ -4,4 +4,4 @@
 </h>
 <p>I have no idea what else i could say about myself, so I decided that I just write some facts about me<col></br>1.I can speak Russian </br>2.I am very subborn person </br>3.I am 23</br>4.I love playing Video Games</br>5.I have 3 tattoo, will get more soon </br> 6.I like coffee </br> 7.And my lucky number is 7</p>
 <h2>Thank you for reading this!</h2>
-![GitHub Logo](https://www.facebook.com/photo.php?fbid=426187487759791&set=a.117257518652791.1073741826.100011056300048&type=3&theater)
+![GitHub Logo] (https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/18620177_426187487759791_7028448769395695233_n.jpg?oh=725b6f06c88aafc820957bf4f73586c6&oe=5A57C402)
